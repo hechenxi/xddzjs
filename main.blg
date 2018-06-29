@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+Warning--empty journal in 丹尼尔1977科学技术百科全书
+Warning--there's a number but no volume in 刘伟平1999电子技术和光子技术的发展比较
+Warning--empty journal in 童诗白2001模拟电子技术基础
+Warning--there's a number but no volume in 卡丽比努尔·塔什铁木尔2015现代电子技术与计算机应用的探讨
+You've used 7 entries,
+            1791 wiz_defined-function locations,
+            487 strings with 4447 characters,
+and the built_in function-call counts, 1322 in all, are:
+= -- 118
+> -- 28
+< -- 0
++ -- 14
+- -- 7
+* -- 88
+:= -- 218
+add.period$ -- 21
+call.type$ -- 7
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 61
+empty$ -- 147
+format.name$ -- 7
+if$ -- 291
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 7
+newline$ -- 38
+num.names$ -- 7
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 17
+stack$ -- 0
+substring$ -- 99
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 12
+width$ -- 8
+write$ -- 75
+(There were 4 warnings)
